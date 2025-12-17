@@ -7,3 +7,4 @@ class apiResponse{
     
     }
 }
+const {apiResponse}
