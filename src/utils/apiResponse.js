@@ -7,4 +7,4 @@ class apiResponse{
     
     }
 }
-const {apiResponse}
+export  {apiResponse}
